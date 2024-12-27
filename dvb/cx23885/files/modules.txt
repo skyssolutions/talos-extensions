@@ -1,3 +1,4 @@
+modules.dep
 modules.order
 modules.builtin
 modules.builtin.modinfo
@@ -121,3 +122,7 @@ kernel/drivers/media/dvb-frontends/zl10039.ko
 kernel/drivers/media/dvb-frontends/zl10353.ko
 kernel/drivers/media/v4l2-core/tuner.ko
 kernel/drivers/media/dvb-core/dvb-core.ko
+kernel/sound/soundcore.ko
+kernel/sound/core/snd.ko
+kernel/sound/core/snd-timer.ko
+kernel/sound/core/snd-pcm.ko
